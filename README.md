@@ -1,2 +1,2 @@
 # idrees_nawaz
-this is my first time to enter github
+this is my first Git repository
